@@ -1,0 +1,30 @@
+body{
+   
+color: rgb(248, 250, 242);
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:36px;
+    text-align: center;
+
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    padding: 10px;
+    margin: 20px;
+}
+h1 { background-color: rgb(12, 12, 12);}
+body{ margin: 0;
+padding: 0;
+background: url(fondo.jpg);
+background-size: center;
+font-family: sans-serif;
+}
+.container{
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+

@@ -1,0 +1,1 @@
+function showAlert(){ alert("! este es una mensaje de javasScriptq2")}
